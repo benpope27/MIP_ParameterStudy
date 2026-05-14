@@ -1,0 +1,10 @@
+instances/assign1-5-8.mps
+instances/enlight_hard.mps
+instances/gen-ip002.mps
+instances/gen-ip054.mps
+instances/markshare_4_0.mps
+instances/mas74.mps
+instances/mas76.mps
+instances/neos5.mps
+instances/neos859080.mps
+instances/pk1.mps
